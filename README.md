@@ -1,6 +1,8 @@
 # Omarchy Theme: Bauhaus
 
-A Bauhaus-inspired dark theme derived from the included backgrounds (Bauhaus01–05.jpg): warm coral and sand accents over cool slate/teal surfaces. All accent colors have been adjusted to meet WCAG AA contrast across core backgrounds.
+A Bauhaus-inspired dark theme with warm coral and sand accents over cool slate/teal surfaces. 
+
+<img width="3840" height="2560" alt="screenshot-2025-09-14_22-21-06" src="https://github.com/user-attachments/assets/0ecf8f3b-f9e9-43d9-91ed-f129fdad62ba" />
 
 ## Palette
 - Primary Background:   #101318 (deep slate-black)
@@ -18,22 +20,7 @@ A Bauhaus-inspired dark theme derived from the included backgrounds (Bauhaus01�
 - Info:                 #8999AA (WCAG-lifted)
 - Selection Background: #2B3040
 
-ANSI palettes are encoded in palette.yml and Alacritty config.
+ANSI palettes are encoded in `palette.yml`.
 
-## Editors and Tools
-This repository includes app themes/config for:
-- Alacritty, Waybar, Hyprland, Hyprlock, Mako, btop, Walker, Neovim, Chromium, and icons.
 
-Helix and Yazi themes are managed in dotfiles.
 
-### Yazi
-- Theme file: ~/.dotfiles/config/yazi/themes/bauhaus.toml
-- Config link: ~/.config/yazi/theme.toml -> ~/.dotfiles/config/yazi/themes/bauhaus.toml
-
-### Vesktop (System24)
-- Theme file: ~/.dotfiles/config/vesktop/themes/system24-omarchy-bauhaus.css
-- Symlink: ~/.config/vesktop/themes/System24 - Bauhaus.css -> ~/.dotfiles/.../system24-omarchy-bauhaus.css
-
-## Notes
-- Colors were extracted from backgrounds/Bauhaus01–05.jpg and tuned to meet WCAG AA on key UI surfaces.
-- If you want this theme focused on a single background image, re-open an issue/PR with the chosen file and I’ll retune the palette accordingly.
