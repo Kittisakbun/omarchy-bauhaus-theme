@@ -1,7 +1,3 @@
-# Omarchy Bauhaus theme for eza
-# Based on upstream Catppuccin mapping, adapted to Bauhaus palette
-# Palette reference: palette.yml
-
 colourful: true
 
 filekinds:

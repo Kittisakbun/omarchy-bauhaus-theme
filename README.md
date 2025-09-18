@@ -36,6 +36,3 @@ Includes machine-readable values for:
 - swayosd.css (OSD styling)
 - vscode.json (placeholder reference)
 
-## Notes
-- Colors were extracted from backgrounds/Bauhaus01–05.jpg and tuned to meet WCAG AA on key UI surfaces.
-- If you want this theme focused on a single background image, re-open an issue/PR with the chosen file and I’ll retune the palette accordingly.

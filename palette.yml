@@ -1,22 +1,18 @@
-# Omarchy Bauhaus palette (machine-readable)
-# Derived from ~/Code/omarchy-bauhaus/backgrounds/Bauhaus01-05.jpg
-# Warm accents (coral, terracotta, sand) + cool slate/teal surfaces
-primary_bg: "#101318"         # deep slate-black (custom dark)
-secondary_bg: "#161B22"       # soft charcoal
-tertiary_bg: "#222733"        # lifted cool surface
-primary_accent: "#E37B66"     # coral adjusted for WCAG
-secondary_accent: "#E0A568"   # sand/amber from 05
-tertiary_accent: "#809D9E"    # muted teal-blue (lifted for WCAG)
-text_primary: "#EAEFF5"       # near-porcelain
-text_secondary: "#C6CED8"     # cool mist
-text_dim: "#98A0AE"           # slate gray-blue
-success: "#789FA2"            # teal-leaning green (lifted for WCAG)
-warning: "#E7A46F"            # warm tan from 01
-error: "#CB886D"              # terracotta (lifted for WCAG)
-info: "#8999AA"               # cool steel-blue (lifted for WCAG)
+primary_bg: "#101318"
+secondary_bg: "#161B22"
+tertiary_bg: "#222733"
+primary_accent: "#E37B66"
+secondary_accent: "#E0A568"
+tertiary_accent: "#809D9E"
+text_primary: "#EAEFF5"
+text_secondary: "#C6CED8"
+text_dim: "#98A0AE"
+success: "#789FA2"
+warning: "#E7A46F"
+error: "#CB886D"
+info: "#8999AA"
 selection_bg: "#2B3040"
 
-# Terminal ANSI mapping
 ansi_normal:
   black:   "#161B22"
   red:     "#C0704F"
