@@ -38,7 +38,7 @@ entry,
 
 entry selection {
   background-color: alpha(@selected-accent, 0.45);
-  color: @selected-text;
+  color: @text;
 }
 
 #search {
