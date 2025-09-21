@@ -2,8 +2,6 @@
 
 Updated for Omarchy v3.0!
 
-[![License](https://img.shields.io/github/license/somerocketeer/omarchy-bauhaus-theme)](LICENSE) [![Release](https://img.shields.io/github/v/release/somerocketeer/omarchy-bauhaus-theme?display_name=tag)](https://github.com/somerocketeer/omarchy-bauhaus-theme/releases)
-
 A Bauhaus-inspired dark theme with warm coral and sand accents over cool slate/teal surfaces.
 
 <img width="3840" height="2560" alt="screenshot-2025-09-20_21-59-34" src="https://github.com/user-attachments/assets/f0b6952e-c436-4c03-b496-0ecc6679210a" />
