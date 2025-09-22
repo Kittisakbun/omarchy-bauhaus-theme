@@ -84,14 +84,14 @@ row,
 
 row:hover,
 .item:hover {
-  background-color: alpha(@selected-accent, 0.12);
+  background-color: alpha(@selected-accent, 0.08);
 }
 
 row:selected,
 row:selected:hover,
 .item:selected,
 .item:selected:hover {
-  background-color: alpha(@selected-accent, 0.22);
+  background-color: alpha(@selected-accent, 0.15);
   background-image: @selected-gradient;
   color: @selected-text;
   border-left: 1px solid @selected-accent;
@@ -114,12 +114,12 @@ child {
 }
 
 child:hover {
-  background-color: alpha(@selected-accent, 0.12);
+  background-color: alpha(@selected-accent, 0.08);
 }
 
 child:selected,
 child:hover:selected {
-  background-color: alpha(@selected-accent, 0.22);
+  background-color: alpha(@selected-accent, 0.15);
   background-image: @selected-gradient;
   color: @selected-text;
   border-left: 1px solid @selected-accent;
